@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Faseeh-ul-Yaseen
-- 👀 I’m interested in Python realted things
+- 👀 I’m interested in Python related things
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on 3d engine made with python language
 - 📫 How to reach me is by searching me
